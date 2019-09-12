@@ -1653,21 +1653,21 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 .btn-primary {
-  background: #2988bc;
+  background: #1976D2;
   color: #fff;
-  border: 2px solid #2988bc;
+  border: 2px solid #1976D2;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background: #2988bc !important;
-  border-color: #2988bc;
+  background: #1976D2 !important;
+  border-color: #1976D2;
 }
 .btn-primary.btn-outline {
   background: transparent;
-  color: #2988bc;
-  border: 1px solid #2988bc;
+  color: #1976D2;
+  border: 1px solid #1976D2;
 }
 .btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
-  background: #2988bc;
+  background: #1976D2;
   color: #fff;
 }
 
